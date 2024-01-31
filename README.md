@@ -1,3 +1,11 @@
+# My Personal Interpretation of Me.
+
+This product is a game which functions as a personal portfolio.
+
+All of the code has been written by the author of this project, me, Mees van Aarsen.
+
+Build using react.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
